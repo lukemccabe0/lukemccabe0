@@ -7,7 +7,7 @@ I am a Computer Science student at Queens University Belfast, passionate about t
 
 - 🌱 I’m currently learning: Currently on my placement year as an ICT Assistant with InvestNI
 - 💬 Ask me about: [Your Expertise/Interests]
-- 📫 How to reach me: luke@lukemccabe.co.uk | [LinkedIn Profile](https://www.linkedin.com/in/luke-mccabe-3016501b8/) | [Twitter Handle]
+- 📫 How to reach me: [Email](luke@lukemccabe.co.uk) | [LinkedIn Profile](https://www.linkedin.com/in/luke-mccabe-3016501b8/) | [Twitter Handle]
 - ⚡ Fun fact: [Something Interesting About You]
 
 ## 🔧 Technologies & Tools I Use
