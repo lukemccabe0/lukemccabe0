@@ -30,9 +30,9 @@ I am a Computer Science student at Queens University Belfast, passionate about t
 
 Here are a few of my projects:
 
-[- [Project 1](https://github.com/yourusername/project1): Short description of project 1
-- [Project 2](https://github.com/yourusername/project2): Short description of project 2
-- [Project 3](https://github.com/yourusername/project3): Short description of project 3]: #
+[- [Project 1](https://github.com/yourusername/project1): Short description of project 1]: #
+[- [Project 2](https://github.com/yourusername/project2): Short description of project 2]: #
+[- [Project 3](https://github.com/yourusername/project3): Short description of project 3]: #
 
 ## 📫 Connect with Me
 
