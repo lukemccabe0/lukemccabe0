@@ -38,7 +38,9 @@ Here are a few of my projects:
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/yourprofile)
+
 [![Twitter](https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter)](https://twitter.com/yourhandle)
+
 [![Email](https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail)](mailto:youremail@example.com)
 
 ## ✨ Top Repositories
