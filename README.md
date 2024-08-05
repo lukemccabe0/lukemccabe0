@@ -41,9 +41,8 @@ Coming Soon 🙂
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/luke-mccabe-3016501b8/)
-[![Twitter](https://img.shields.io/badge/-Twitter-333333?style=flat&logo=twitter)](https://twitter.com/yourhandle)
 [![Email](https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail)](mailto:luke@lukemccabe.co.uk)
-
+<!--
 ## ✨ Top Repositories
 
 <a href="https://github.com/yourusername/repository1">
@@ -51,4 +50,5 @@ Coming Soon 🙂
 </a>
 <a href="https://github.com/yourusername/repository2">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repository2&theme=radical" />
-</a>
+</a> -->
+
