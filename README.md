@@ -10,9 +10,8 @@ I am a Computer Science student at Queens University Belfast, passionate about t
 - 📫 How to reach me: [Your Email] | [LinkedIn Profile] | [Twitter Handle]
 - ⚡ Fun fact: [Something Interesting About You]
 
-## 🔧 Technologies & Tools
+## 🔧 Technologies & Tools I Use
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=c%2B%2B)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -31,9 +30,9 @@ I am a Computer Science student at Queens University Belfast, passionate about t
 
 Here are a few of my projects:
 
-- [Project 1](https://github.com/yourusername/project1): Short description of project 1
+[- [Project 1](https://github.com/yourusername/project1): Short description of project 1
 - [Project 2](https://github.com/yourusername/project2): Short description of project 2
-- [Project 3](https://github.com/yourusername/project3): Short description of project 3
+- [Project 3](https://github.com/yourusername/project3): Short description of project 3]: #
 
 ## 📫 Connect with Me
 
