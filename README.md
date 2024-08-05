@@ -6,6 +6,7 @@
 I am a Computer Science student at Queens University Belfast, passionate about technology and software development. I enjoy solving complex problems and learning new things in the field of computer science.
 
 - 👨‍💻 Currently on my placement year with InvestNI
+- 📷 I have a passion for photography.
 - 💬 Ask me or the community about anything [here](https://github.com/lukemccabe0/lukemccabe0/discussions)
 
 ## 🔧 Technologies & Tools I Use
