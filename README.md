@@ -1,11 +1,11 @@
 ![](https://github.com/lukemccabe0/lukemccabe0/blob/d464eb85eedec2b36837a9a6d025afce91c664a8/assets/images/LukeM-ezgif.com-crop.gif?raw=true)
 
-# Hi there, I'm [Luke] 👋
+# Hi there, I'm Luke 👋
 
 ## About Me
 I am a Computer Science student at Queens University Belfast, passionate about technology and software development. I enjoy solving complex problems and learning new things in the field of computer science.
 
-- 🌱 I’m currently learning: [Currently on my placement year as an ICT Assistant with InvestNI]
+- 🌱 I’m currently learning: Currently on my placement year as an ICT Assistant with InvestNI
 - 💬 Ask me about: [Your Expertise/Interests]
 - 📫 How to reach me: [Your Email] | [LinkedIn Profile] | [Twitter Handle]
 - ⚡ Fun fact: [Something Interesting About You]
