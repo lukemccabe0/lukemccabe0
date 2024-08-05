@@ -39,7 +39,7 @@ Coming Soon 🙂
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/luke-mccabe-3016501b8/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](www.linkedin.com/in/lukemccabe0)
 [![Email](https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail)](mailto:luke@lukemccabe.co.uk)
 <!--
 ## ✨ Top Repositories
