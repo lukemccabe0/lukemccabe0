@@ -8,7 +8,7 @@ I am a Computer Science student at Queens University Belfast, passionate about t
 - 🌱 I’m currently learning: Currently on my placement year as an ICT Assistant with InvestNI
 - 💬 Ask me about: [Your Expertise/Interests]
 - 📫 How to reach me: [![Email](https://img.shields.io/badge/-Email-333333?style=flat&logo=gmail)](mailto:luke@lukemccabe.co.uk) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-333333?style=flat&logo=linkedin)](https://www.linkedin.com/in/luke-mccabe-3016501b8/) |
-- ⚡ Fun fact: I am an animal lover! My current pets are Cooper(Cat), Monty(Dog), Bella(Dog), Elvis(Horse)
+- ⚡ Fun fact: I am an animal lover! My current pets are Cooper (Cat), Monty (Dog), Bella (Dog) and Elvis (Horse).
 
 ## 🔧 Technologies & Tools I Use
 
