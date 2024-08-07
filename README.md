@@ -22,8 +22,8 @@ I am a Computer Science student at Queens University Belfast, passionate about t
 
 ## 🏆 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=lukemccabe0&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lukemccabe0&layout=compact&theme=radical)
 
 ## 📘 Projects
 
