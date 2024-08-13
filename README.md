@@ -29,7 +29,7 @@ I am a Computer Science student at Queens University Belfast, passionate about t
 
 Here are a few of my projects:
 
-- [ClipBrief](https://github.com/lukemccabe0/clipbrief): Short description of project 1
+- [ClipBrief](https://github.com/lukemccabe0/clipbrief): A web app that turns YouTube videos into summaries!
 
 <!--- [Project 2](https://github.com/yourusername/project2): Short description of project 2
 
