@@ -3,7 +3,7 @@
 # Hi there, I'm Luke 👋
 
 ## 🙋‍♂️ About Me
-I am a Computer Science student at Queens University Belfast, passionate about technology and software development. I enjoy solving complex problems and learning new things in the field of computer science.
+I am a Computer Science student at Queens University Belfast, passionate about technology and network security. I enjoy solving complex problems and learning new things in the field of computer science.
 
 - 👨‍💻 Currently on my placement year with [InvestNI](https://www.investni.com).
 - 📷 I have a passion for photography, see my work [here](https://www.facebook.com/lukemccabephotography).
